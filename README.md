@@ -1,4 +1,4 @@
-[![Tests Status](https://github.com/AndriiDobrosynets/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/AndriiDobrosynets/learn-cicd-starter/actions)
+[![CI](https://github.com/AndriiDobrosynets/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/AndriiDobrosynets/learn-cicd-starter/actions)
 # learn-cicd-starter (Notely)
 
 This repo contains the starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
